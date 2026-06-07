@@ -1,0 +1,56 @@
+{
+  "chapter_number": 5,
+  "chapter_title": "A Light in the Dark",
+  "scenes": [
+    {
+      "title": "The Morning After",
+      "summary": "Feyre wakes up in her chambers at the Night Court, disoriented and hungover from the previous night's events. She reflects on the revelations and choices she made, feeling the weight of her responsibilities as High Lady. Rhysand checks in on her, and they discuss the implications of the recent discoveries and the looming threats.",
+      "pov_character": "Feyre",
+      "key_beats": [
+        "Feyre wakes up with a headache and a sense of dread",
+        "Rhysand arrives with tea and a knowing look, offering quiet support",
+        "They discuss the political fallout and the need for a united front",
+        "Feyre feels overwhelmed but determined to face the challenges ahead"
+      ]
+    },
+    {
+      "title": "A Message from the Past",
+      "summary": "Feyre receives an unexpected visit from an old ally who brings a cryptic message tied to the events of the war and the true nature of the threats they now face. The message hints at a long-buried secret that could change everything, and Feyre must decide whether to pursue this lead or focus on the immediate dangers.",
+      "pov_character": "Feyre",
+      "key_beats": [
+        "A mysterious visitor arrives at the Night Court under the cover of night",
+        "The visitor delivers a message tied to Feyre’s past and the war’s unresolved conflicts",
+        "Feyre debates the risks of investigating further versus focusing on current threats",
+        "Rhysand and Feyre argue about the best course of action, testing their trust and partnership"
+      ]
+    },
+    {
+      "title": "The Gathering Storm",
+      "summary": "Feyre and Rhysand convene a meeting with their inner circle to strategize their next moves. Tensions rise as differing opinions on how to handle the new threats surface, particularly concerning the human lands and the growing unrest among the courts. Feyre must assert her leadership and make a difficult decision that could either unite or divide them.",
+      "pov_character": "Feyre",
+      "key_beats": [
+        "The inner circle gathers in the war room, maps and reports spread across the table",
+        "Mor and Amren clash over the best way to protect the human lands",
+        "Cassian and Azriel present intelligence on the growing unrest in the other courts",
+        "Feyre makes a decisive choice, committing to a course of action that will test their alliances"
+      ]
+    },
+    {
+      "title": "A Moment of Respite",
+      "summary": "After the intense discussions, Feyre and Rhysand steal a quiet moment together. They reflect on their journey, the challenges ahead, and the strength of their bond. Rhysand reassures Feyre of her capabilities, and they share a tender moment that reaffirms their love and partnership. However, the peace is short-lived as an urgent message arrives, pulling them back into the fray.",
+      "pov_character": "Feyre",
+      "key_beats": [
+        "Feyre and Rhysand retreat to a secluded balcony, overlooking the Night Court",
+        "They share a quiet conversation about their fears and hopes for the future",
+        "Rhysand reminds Feyre of her strength and the power of their bond",
+        "An urgent message interrupts their moment, signaling the start of a new crisis"
+      ]
+    }
+  ],
+  "world_state_changes": [
+    "Feyre gains new insight into the true nature of the threats facing Prythian, hinting at deeper conspiracies",
+    "The inner circle’s unity is tested, setting the stage for future conflicts and alliances",
+    "Feyre’s leadership is solidified, but at the cost of personal doubts and external pressures",
+    "A new mission or quest is set in motion, driving the story toward its climax"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "chapter_number": 4,
+  "chapter_title": "The Weight of Crowns and Choices",
+  "scenes": [
+    {
+      "title": "A Quiet Morning in the Spring Court",
+      "summary": "Feyre wakes up in the Spring Court, disoriented and alone. She reflects on the events of the previous night and the weight of her responsibilities. The court is eerily quiet, and she senses an undercurrent of tension among the servants and courtiers.",
+      "pov_character": "Feyre",
+      "key_beats": [
+        "Feyre wakes up with a headache and a sense of dread",
+        "She notices the absence of familiar faces and the subdued atmosphere of the court",
+        "A servant delivers a cryptic message about a meeting with Tamlin",
+        "Feyre prepares herself mentally for the confrontation, recalling past arguments and unresolved issues"
+      ]
+    },
+    {
+      "title": "Confrontation in the Garden",
+      "summary": "Feyre meets Tamlin in the garden, a place that once held happy memories but now feels tainted. Their conversation quickly turns into an argument as Tamlin accuses Feyre of abandoning him and the court. Feyre struggles to keep her emotions in check while standing her ground.",
+      "pov_character": "Feyre",
+      "key_beats": [
+        "Feyre arrives at the garden, noticing the overgrown and neglected state of the once-beautiful grounds",
+        "Tamlin confronts Feyre about her absence and perceived betrayal",
+        "Feyre defends her actions, revealing her frustrations and the pain she has endured",
+        "The argument escalates, revealing deep-seated resentment and misunderstandings between them",
+        "A sudden interruption by a courtier halts the confrontation, leaving things unresolved"
+      ]
+    },
+    {
+      "title": "A Message from the Night Court",
+      "summary": "Feyre receives an urgent message from Rhysand, delivered by a Night Court emissary. The message hints at a growing threat that requires Feyre’s immediate attention. Feyre must decide whether to return to the Night Court or stay and address the issues in the Spring Court.",
+      "pov_character": "Feyre",
+      "key_beats": [
+        "Feyre is summoned to a private chamber where the Night Court emissary awaits",
+        "The emissary delivers Rhysand’s message, which is vague but urgent",
+        "Feyre questions the emissary, trying to glean more information about the threat",
+        "She feels torn between her duties to the Spring Court and her loyalty to the Night Court",
+        "Feyre makes a decision to return to the Night Court, but not before leaving instructions for the Spring Court’s safety"
+      ]
+    },
+    {
+      "title": "Preparations and Farewells",
+      "summary": "Feyre prepares to leave the Spring Court, saying brief and tense goodbyes to Tamlin and the few allies she has left there. She reflects on the fractured state of their relationship and the uncertainty of her return. As she departs, she senses she is being watched, adding to her unease.",
+      "pov_character": "Feyre",
+      "key_beats": [
+        "Feyre packs her belongings, including the key she had pocketed earlier",
+        "She has a final, strained conversation with Tamlin, who seems both hurt and angry",
+        "Feyre seeks out Ianthe, delivering a warning and a thinly veiled threat to ensure the court’s safety in her absence",
+        "As Feyre leaves the court grounds, she feels a chill down her spine, sensing unseen eyes on her",
+        "She takes to the skies, heading towards the Night Court, her mind racing with thoughts of the impending threat"
+      ]
+    }
+  ],
+  "world_state_changes": [
+    "Feyre’s relationship with Tamlin reaches a new low, with deep-seated resentment and unresolved issues surfacing",
+    "The Spring Court remains in a state of tension and neglect, hinting at larger problems within its governance",
+    "A new, unspecified threat is introduced, pulling Feyre back to the Night Court and setting up future conflicts",
+    "Feyre’s internal conflict between her duties and loyalties is heightened, driving her character arc forward"
+  ]
+}

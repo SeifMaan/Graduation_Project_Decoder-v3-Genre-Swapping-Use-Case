@@ -1,0 +1,55 @@
+{
+  "chapter_number": 2,
+  "chapter_title": "Shadows of the Past",
+  "scenes": [
+    {
+      "title": "Morning Aftermath",
+      "summary": "Feyre wakes up in the cabin, disoriented and hungover, to find Rhysand already gone. She explores the cabin, finding remnants of the previous night's events and a note from Rhys. The cabin feels both familiar and foreign, stirring memories of their time together and the pain of their recent separation.",
+      "pov_character": "Feyre",
+      "key_beats": [
+        "Feyre wakes up alone, her head pounding and mouth dry",
+        "She finds a note from Rhysand explaining his absence and urging her to rest",
+        "Exploring the cabin, she touches objects that trigger vivid memories of their past",
+        "She discovers a half-finished painting, hinting at Rhysand's attempt to reconnect with her through art"
+      ]
+    },
+    {
+      "title": "A Visitor from the Past",
+      "summary": "Feyre steps outside the cabin to clear her head and is confronted by Cassian, who has come to check on her. Their conversation is tense, as Cassian expresses his concern for both Feyre and Rhysand. He reveals that the Night Court is on edge, and tensions are high due to recent events. Cassian also hints at a growing threat that requires Feyre's attention.",
+      "pov_character": "Feyre",
+      "key_beats": [
+        "Feyre steps outside, taking in the crisp morning air and the beauty of the Night Court",
+        "Cassian arrives unexpectedly, his expression unreadable",
+        "Their conversation is strained, with Cassian probing Feyre's emotional state",
+        "Cassian reveals that the Night Court is facing new threats and needs Feyre's help"
+      ]
+    },
+    {
+      "title": "Unfinished Business",
+      "summary": "Feyre returns to the cabin, determined to confront her feelings and the unresolved issues between her and Rhysand. She begins painting, using art as a way to process her emotions. As she paints, she uncovers a hidden message from Rhysand beneath the layers of paint, revealing his true feelings and fears.",
+      "pov_character": "Feyre",
+      "key_beats": [
+        "Feyre decides to paint, setting up her easel and supplies",
+        "She starts with broad strokes, gradually delving deeper into her emotions",
+        "As she scrapes away layers of paint, she discovers a hidden message from Rhysand",
+        "The message reveals Rhysand's vulnerability and his desire to rebuild their relationship"
+      ]
+    },
+    {
+      "title": "A Choice to Make",
+      "summary": "Feyre is interrupted by the arrival of Nesta, who has come to bring her back to the House of Wind. Nesta's presence forces Feyre to confront the reality of her responsibilities and the choices she must make. Feyre realizes that she cannot hide from the world any longer and must decide whether to face her fears and embrace her role in the Night Court.",
+      "pov_character": "Feyre",
+      "key_beats": [
+        "Nesta arrives at the cabin, her expression a mix of concern and determination",
+        "Nesta urges Feyre to return to the House of Wind, emphasizing the need for unity",
+        "Feyre struggles with her desire to stay hidden versus her sense of duty",
+        "Feyre makes a decision to return with Nesta, setting the stage for the next phase of her journey"
+      ]
+    }
+  ],
+  "world_state_changes": [
+    "Feyre begins to confront her unresolved feelings for Rhysand and the Night Court",
+    "The growing threat to the Night Court is hinted at, setting up future conflicts",
+    "Feyre's decision to return to the House of Wind signifies her readiness to face her responsibilities"
+  ]
+}
