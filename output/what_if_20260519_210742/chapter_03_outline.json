@@ -1,0 +1,51 @@
+{
+  "chapter_number": 3,
+  "chapter_title": "Shadows of the Past",
+  "scenes": [
+    {
+      "title": "The Weight of Silence",
+      "summary": "Feyre and Rhysand return to the Night Court to find an uneasy tension among their inner circle. The aftermath of the recent battle lingers, and unspoken words hang heavy in the air. Feyre struggles with the weight of her decisions and the secrets she keeps, while Rhysand observes her with quiet concern.",
+      "pov_character": "Feyre",
+      "key_beats": [
+        "Feyre reflects on the events of the war and her role in it, feeling the burden of leadership and sacrifice.",
+        "Rhysand notices her withdrawal but gives her space, sensing she needs time to process.",
+        "A moment of vulnerability between them as Feyre questions whether she is truly worthy of the love and trust of those around her."
+      ]
+    },
+    {
+      "title": "Whispers in the Dark",
+      "summary": "Morrigan confronts Feyre about her distant behavior, sensing that something deeper is troubling her. Feyre deflects at first, but Mor’s persistence and genuine concern break through her walls. Meanwhile, Azriel returns from a reconnaissance mission with troubling news about movements in the human lands.",
+      "pov_character": "Feyre",
+      "key_beats": [
+        "Morrigan’s confrontation forces Feyre to confront her emotions, leading to a heartfelt but tense conversation.",
+        "Azriel’s report hints at a growing threat, suggesting that the peace they fought for may be fragile.",
+        "Feyre realizes she can no longer ignore the signs of unrest, both within herself and in the world around her."
+      ]
+    },
+    {
+      "title": "The Unseen Enemy",
+      "summary": "The inner circle gathers to discuss Azriel’s findings. Cassian and Amren clash over the best course of action, while Rhysand remains unusually quiet, his expression unreadable. Feyre senses that Rhysand is hiding something, but before she can press him, a messenger arrives with urgent news from the Spring Court.",
+      "pov_character": "Feyre",
+      "key_beats": [
+        "The group debates the implications of Azriel’s report, revealing differing opinions on how to handle the emerging threat.",
+        "Feyre notices Rhysand’s silence and suspects he knows more than he’s letting on, deepening her unease.",
+        "The arrival of the messenger shifts the focus to the Spring Court, forcing Feyre to confront her past and the lingering ties she has there."
+      ]
+    },
+    {
+      "title": "A Choice Revisited",
+      "summary": "Feyre and Rhysand retreat to their private quarters to discuss the message from the Spring Court. The news forces Feyre to revisit a painful decision she made in the past, one that could have far-reaching consequences. Rhysand offers his support but also challenges her to face the truth of her feelings and fears.",
+      "pov_character": "Feyre",
+      "key_beats": [
+        "Feyre grapples with the emotional weight of the message, which threatens to unravel the fragile peace she has built.",
+        "Rhysand encourages her to trust herself and the choices she has made, but also pushes her to acknowledge the unresolved pain she carries.",
+        "The chapter ends with Feyre making a decision that will set the course for the next phase of their journey, signaling a turning point in her arc."
+      ]
+    }
+  ],
+  "world_state_changes": [
+    "The inner circle becomes aware of a growing threat in the human lands, hinting at future conflict.",
+    "Feyre’s unresolved emotions and past decisions resurface, creating tension within her relationships and her own sense of self.",
+    "The Spring Court’s involvement introduces a new layer of political complexity, forcing Feyre to navigate her past and present allegiances."
+  ]
+}

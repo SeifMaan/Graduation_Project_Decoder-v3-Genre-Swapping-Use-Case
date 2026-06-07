@@ -1,0 +1,49 @@
+{
+  "title": "A Court of Frost and Daylight - Continued",
+  "premise": "Continue the story from where it left off, following the characters through new challenges and revelations.",
+  "structure_type": "linear",
+  "total_chapters": 5,
+  "central_conflict": "The characters must face the consequences of their past actions while navigating new threats and relationships.",
+  "primary_arcs": [
+    {
+      "arc_name": "Main Character Arc",
+      "character": "Protagonist",
+      "starts_at": "At a crossroads, uncertain of the future",
+      "ends_at": "Having grown through challenges, ready for what comes next",
+      "key_turning_point": "A crucial decision that changes everything"
+    }
+  ],
+  "acts": [
+    {
+      "label": "Act One",
+      "chapter_range": "1-2",
+      "narrative_goal": "Establish the new status quo and inciting incident",
+      "ends_with": "The protagonist makes a choice that sets events in motion"
+    },
+    {
+      "label": "Act Two",
+      "chapter_range": "3-4",
+      "narrative_goal": "Complications arise and relationships are tested",
+      "ends_with": "The situation reaches a critical point"
+    },
+    {
+      "label": "Act Three",
+      "chapter_range": "5",
+      "narrative_goal": "Climax and resolution",
+      "ends_with": "The story concludes with new understanding"
+    }
+  ],
+  "world_threads_activated": [],
+  "tone": "Dramatic and immersive, with emotional depth and tension",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "scenes": [
+    {
+      "title": "Scene 1",
+      "summary": "Continue the story from chapter 0",
+      "pov_character": "",
+      "key_beats": []
+    }
+  ],
+  "world_state_changes": []
+}

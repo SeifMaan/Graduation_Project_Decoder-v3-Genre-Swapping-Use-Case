@@ -1,0 +1,339 @@
+{
+  "mode": "what_if",
+  "what_if_premise": {
+    "divergence_point": "",
+    "time_skip": 50,
+    "character_status_changes": {},
+    "key_events": [],
+    "full_prompt": "What-if: Feyre died Under the Mountain.\n\nRhysand has been searching for a way to bring her back for 50 years. When he finally finds a ritual that might work, the cost is his immortality. Nesta must convince him that living without power is worse than living without Feyre."
+  },
+  "character_states": [],
+  "relationship_summary": [],
+  "causal_chains": [],
+  "canon_reference": {
+    "canon_characters": [
+      {
+        "name": "Feyre",
+        "mention_count": 26,
+        "first_seen_chapter": 1,
+        "descriptions": [
+          "wearing heavy charcoal sweater, tight black leggings, fleece-lined boots, hair loosely braided",
+          "silver-and-sapphire band on left hand",
+          "heavy gray coat, red-and-gray scarf from Mor's closet, gloved hands",
+          "clad in sparkling onyx gown with crescent-moon diadem",
+          "hood concealing most of her face",
+          "back cramped, stomach hungry",
+          "trembling hands balled into tight fists",
+          "midnight-blue velvet gown, hair down with silver combs",
+          "headache from drinking, tongue stuck to roof of mouth",
+          "wearing Starfall gown and diamond cuffs",
+          "wearing diamond cuffs and glittering gown",
+          "pocketing key in overcoat, hair in braid",
+          "thick long sweater, warm leggings, shearling-lined work boots splattered with paint",
+          "clad in heavy cream sweater and dark leggings"
+        ],
+        "aliases": [
+          "High Lady of the Night Court",
+          "my sister",
+          "sister"
+        ],
+        "canon_state": {
+          "knowledge": "aware of Hewn City visit requirement",
+          "possession": "owns new sketchbook, scarf, and painting satchel",
+          "emotional_state": "experienced emotional release and closure",
+          "palm_tattoos": "mountain with three stars (Night Court insignia)"
+        },
+        "state_transitions": [
+          {
+            "attribute": "knowledge",
+            "previous_state": "",
+            "new_state": "aware of Hewn City visit requirement",
+            "change_type": "knowledge",
+            "evidence": "Mor informs Feyre they must visit the Hewn City tonight",
+            "chapter": 4
+          },
+          {
+            "attribute": "emotional_state",
+            "previous_state": "",
+            "new_state": "experienced emotional release and closure",
+            "change_type": "condition",
+            "evidence": "painting felt like a first stitch to close a wound",
+            "chapter": 10
+          },
+          {
+            "attribute": "possession",
+            "previous_state": "",
+            "new_state": "owns new sketchbook, scarf, and painting satchel",
+            "change_type": "possession",
+            "evidence": "Rhys gives her three birthday gifts",
+            "chapter": 17
+          },
+          {
+            "attribute": "palm tattoos",
+            "previous_state": "cat's eye symbol",
+            "new_state": "mountain with three stars (Night Court insignia)",
+            "change_type": "physical_state",
+            "evidence": "Rhys changed the tattoos on both her palms",
+            "chapter": 22
+          }
+        ]
+      },
+      {
+        "name": "Rhys",
+        "mention_count": 23,
+        "first_seen_chapter": 1,
+        "descriptions": [
+          "chilled hands",
+          "Illyrian leathers gleamed with melted snow, snow on dark hair and wings",
+          "exhausted with heavy, slow movements",
+          "wearing only undershorts",
+          "wings still numb from flight",
+          "black jacket crafted from heavier wool, forgone wings",
+          "naked, wings draped across bed, Illyrian tattoos visible",
+          "wearing finest black jacket with silver embroidery",
+          "wearing tight black jacket, has wings",
+          "clad in usual black, High Lord's clothes, more formal than usual"
+        ],
+        "aliases": [
+          "High Lord",
+          "mate",
+          "Rhysand"
+        ],
+        "canon_state": {
+          "knowledge": "aware of full extent of Illyrian dissent",
+          "physical_condition": "has eaten food after not eating properly all day",
+          "contraceptive_use": "stopped taking tonic"
+        },
+        "state_transitions": [
+          {
+            "attribute": "physical condition",
+            "previous_state": "",
+            "new_state": "has eaten food after not eating properly all day",
+            "change_type": "physical_state",
+            "evidence": "Feyre brings him food and he eats it",
+            "chapter": 5
+          },
+          {
+            "attribute": "knowledge",
+            "previous_state": "",
+            "new_state": "aware of full extent of Illyrian dissent",
+            "change_type": "knowledge",
+            "evidence": "Azriel presents maps showing more clans than expected",
+            "chapter": 7
+          },
+          {
+            "attribute": "contraceptive use",
+            "previous_state": "taking tonic",
+            "new_state": "stopped taking tonic",
+            "change_type": "status",
+            "evidence": "He hadn't taken his contraceptive tonic with breakfast",
+            "chapter": 22
+          }
+        ]
+      },
+      {
+        "name": "Cassian",
+        "mention_count": 21,
+        "first_seen_chapter": 1,
+        "descriptions": [
+          "dark hair, wings, crimson Siphons",
+          "wearing flying leathers and gloves",
+          "wind-tangled snarls in hair",
+          "snow on broad shoulders and dark hair, flushed cheeks from cold, wearing black jacket and shirt instead of leathers",
+          "wings draped over bed and floor",
+          "portrait of relaxed, arm braced against mantel, wings tucked in loosely, faint grin, glass of wine in hand",
+          "callused hands",
+          "face a mask of stone, distant since Solstice",
+          "wearing seven Siphons, red Siphon flickering"
+        ],
+        "aliases": [
+          "brute",
+          "Illyrian warrior",
+          "warrior"
+        ],
+        "canon_state": {
+          "location": "settled in town house bedroom"
+        },
+        "state_transitions": [
+          {
+            "attribute": "location",
+            "previous_state": "",
+            "new_state": "settled in town house bedroom",
+            "change_type": "location",
+            "evidence": "dumped his leather bag on the narrow bed",
+            "chapter": 16
+          }
+        ]
+      },
+      {
+        "name": "Azriel",
+        "mention_count": 19,
+        "first_seen_chapter": 1,
+        "descriptions": [
+          "shadows sliding over his neck like living tattoos",
+          "scarred fingers",
+          "fine yet simple black jacket and pants, wings tucked back",
+          "clad in black jacket and pants tailored for wings, wearing Siphons",
+          "shadows twining around him"
+        ],
+        "aliases": [
+          "Az",
+          "the shadowsinger"
+        ],
+        "canon_state": {
+          "location": "settled in town house bedroom"
+        },
+        "state_transitions": [
+          {
+            "attribute": "location",
+            "previous_state": "",
+            "new_state": "settled in town house bedroom",
+            "change_type": "location",
+            "evidence": "setting his own bag on the bed opposite Cassian's",
+            "chapter": 16
+          }
+        ]
+      },
+      {
+        "name": "Elain",
+        "mention_count": 16,
+        "first_seen_chapter": 1,
+        "descriptions": [
+          "hair half up, apron over rose-pink gown dusted with flour, skin gained color, face filled in",
+          "flour-coated hands, apron over dusty-pink gown, braid",
+          "doe-brown eyes, silent demeanor"
+        ],
+        "aliases": [
+          "my sister",
+          "sister"
+        ],
+        "canon_state": {},
+        "state_transitions": []
+      }
+    ],
+    "canon_chains": [
+      {
+        "chain_id": "chain_1",
+        "description": "Illyrian conflict and leadership struggles",
+        "chain_type": "LINEAR",
+        "story_function": "Establishes political tension and character development for Rhys and Cassian",
+        "events": [
+          {
+            "event_id": "t_5",
+            "description": "Rhys reports he's at Devlon's camp dealing with Cassian's argument",
+            "chapter": 1,
+            "time_index": 5
+          },
+          {
+            "event_id": "t_6",
+            "description": "Rhys and Cassian negotiate with Devlon about female warrior training schedule",
+            "chapter": 2,
+            "time_index": 6
+          },
+          {
+            "event_id": "t_7",
+            "description": "Rhys and Cassian move to their stone house to discuss privately",
+            "chapter": 2,
+            "time_index": 7
+          },
+          {
+            "event_id": "t_8",
+            "description": "Cassian reveals brewing Illyrian rebellion and dissension",
+            "chapter": 2,
+            "time_index": 8
+          },
+          {
+            "event_id": "t_9",
+            "description": "Rhys admits his fears about happiness and cosmic payment",
+            "chapter": 2,
+            "time_index": 9
+          },
+          {
+            "event_id": "t_10",
+            "description": "Cassian embraces Rhys and offers reassurance",
+            "chapter": 2,
+            "time_index": 10
+          },
+          {
+            "event_id": "t_20",
+            "description": "Rhys returns home exhausted from the Illyrian camp covered in snow",
+            "chapter": 5,
+            "time_index": 20
+          }
+        ]
+      },
+      {
+        "chain_id": "chain_2",
+        "description": "Cassian's personal journey and motivation",
+        "chain_type": "LINEAR",
+        "story_function": "Character backstory and motivation development for Cassian",
+        "events": [
+          {
+            "event_id": "t_11",
+            "description": "Cassian flies from Windhaven toward Ramiel mountain",
+            "chapter": 3,
+            "time_index": 11
+          },
+          {
+            "event_id": "t_12",
+            "description": "Cassian reflects on the Blood Rite and his past victory with Rhys and Azriel",
+            "chapter": 3,
+            "time_index": 12
+          },
+          {
+            "event_id": "t_13",
+            "description": "Cassian lands at his destroyed birthplace and remembers his mother's suffering",
+            "chapter": 3,
+            "time_index": 13
+          },
+          {
+            "event_id": "t_14",
+            "description": "Cassian reflects on his motivation for training Illyrian women",
+            "chapter": 3,
+            "time_index": 14
+          }
+        ]
+      },
+      {
+        "chain_id": "chain_3",
+        "description": "Feyre's Velaris activities and information gathering",
+        "chain_type": "BRANCHING",
+        "story_function": "World-building and setup for Hewn City visit plotline",
+        "events": [
+          {
+            "event_id": "t_15",
+            "description": "Feyre meets Ressina while examining ruined buildings in the Rainbow district",
+            "chapter": 4,
+            "time_index": 15
+          },
+          {
+            "event_id": "t_16",
+            "description": "Ressina invites Feyre to join her artist painting group",
+            "chapter": 4,
+            "time_index": 16
+          },
+          {
+            "event_id": "t_17",
+            "description": "Mor joins Feyre while shopping for jewelry",
+            "chapter": 4,
+            "time_index": 17
+          },
+          {
+            "event_id": "t_18",
+            "description": "Feyre purchases a jeweled piece for Amren's Solstice gift",
+            "chapter": 4,
+            "time_index": 18
+          },
+          {
+            "event_id": "t_19",
+            "description": "Mor informs Feyre they must visit the Hewn City tonight because Eris will be there",
+            "chapter": 4,
+            "time_index": 19
+          }
+        ]
+      }
+    ]
+  },
+  "user_prompt_override": "What-if: Feyre died Under the Mountain.\n\nRhysand has been searching for a way to bring her back for 50 years. When he finally finds a ritual that might work, the cost is his immortality. Nesta must convince him that living without power is worse than living without Feyre.",
+  "override_instruction": "IGNORE ALL CANON RELATIONSHIPS. Follow the what_if_premise strictly."
+}

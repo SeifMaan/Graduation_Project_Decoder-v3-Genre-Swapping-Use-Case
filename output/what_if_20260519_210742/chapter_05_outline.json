@@ -1,0 +1,56 @@
+{
+  "chapter_number": 5,
+  "chapter_title": "The Weight of Tomorrow",
+  "scenes": [
+    {
+      "title": "A Council of Whispers",
+      "summary": "Feyre and Rhysand convene a meeting of the inner circle to address the growing threat in the human lands. The tension in the room is palpable as old wounds and new suspicions surface. Feyre struggles to assert her authority, feeling the weight of her past decisions pressing down on her. Cassian and Azriel present intelligence suggesting the threat is more imminent than anticipated, forcing the group to confront the possibility of another war. Rhysand watches Feyre closely, sensing her internal turmoil but choosing to let her navigate it on her own for now.",
+      "pov_character": "Feyre",
+      "key_beats": [
+        "Feyre calls the meeting to order, her voice steady but her hands trembling slightly",
+        "Cassian and Azriel reveal the intelligence, their usual bravado replaced by grim seriousness",
+        "Morrigan and Amren exchange a loaded glance, hinting at a history Feyre isn’t privy to",
+        "Feyre feels the weight of leadership settle on her shoulders, her past failures looming large"
+      ]
+    },
+    {
+      "title": "The Spring Court’s Gambit",
+      "summary": "A messenger from the Spring Court arrives with an unexpected proposal from Tamlin. The offer is veiled in politeness but laced with underlying threats, forcing Feyre to confront her past and the complicated web of alliances she’s entangled in. Rhysand’s presence is a silent support, but his anger at Tamlin’s audacity simmers beneath the surface. Feyre must decide how to respond—whether to engage with Tamlin’s games or shut him out entirely, risking further escalation. The scene ends with Feyre making a decision that surprises even herself.",
+      "pov_character": "Feyre",
+      "key_beats": [
+        "The messenger delivers Tamlin’s proposal with a smirk, clearly enjoying Feyre’s discomfort",
+        "Rhysand’s grip on the armrest of his chair tightens, his knuckles turning white",
+        "Feyre recalls the last time she saw Tamlin, the pain and betrayal still fresh in her mind",
+        "She composes a response that is both diplomatic and firm, refusing to be drawn into Tamlin’s schemes"
+      ]
+    },
+    {
+      "title": "A Moment of Truth",
+      "summary": "Alone in their chambers, Feyre finally breaks down, the weight of the day’s events crashing over her. Rhysand finds her in tears, and for the first time, she lets him see the full extent of her fears—not just for herself, but for their people, their future, and the fragile peace they’ve built. Rhysand listens without judgment, his own vulnerabilities surfacing as he admits his fears about failing her and their court. The scene ends with them holding each other, a silent promise passing between them to face whatever comes next together.",
+      "pov_character": "Feyre",
+      "key_beats": [
+        "Feyre’s carefully constructed facade crumbles, her tears falling freely",
+        "Rhysand kneels before her, his usual confidence replaced by raw honesty",
+        "Feyre confesses her fear of repeating past mistakes, of not being strong enough",
+        "Rhysand reassures her, not with empty words, but with a vow to stand by her side no matter what"
+      ]
+    },
+    {
+      "title": "The First Move",
+      "summary": "The chapter closes with Feyre and Rhysand making a bold move to address the looming threat. They decide to send a small, trusted group—including Cassian and Morrigan—to the human lands to gather more information and, if necessary, intervene before the situation spirals out of control. Feyre insists on going herself, but Rhysand refuses, citing the danger and her need to stay and stabilize their court. The argument that follows is heated, but ultimately, Feyre concedes, though not without extracting a promise from Rhysand that she will be involved in every step of the decision-making process. The scene ends with them standing on the balcony of their chambers, watching as the group departs, the weight of their choices settling over them like a shroud.",
+      "pov_character": "Feyre and Rhysand",
+      "key_beats": [
+        "Feyre argues passionately for her inclusion in the mission, her fear for their people driving her",
+        "Rhysand counters with equal fervor, his concern for her safety overriding all else",
+        "They reach a compromise, but the tension between them lingers",
+        "As the group departs, Feyre and Rhysand stand together, their hands clasped tightly, ready to face the storm ahead"
+      ]
+    }
+  ],
+  "world_state_changes": [
+    "The inner circle is now actively preparing for a potential conflict in the human lands, shifting the court’s focus from recovery to readiness.",
+    "Feyre’s relationship with the Spring Court becomes more strained, setting the stage for future political maneuvering.",
+    "Feyre and Rhysand’s bond deepens, but the challenges ahead test their trust and communication, leaving room for further growth or conflict.",
+    "The departure of Cassian and Morrigan leaves the Night Court vulnerable, creating an opportunity for internal or external threats to exploit the gap."
+  ]
+}
